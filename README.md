@@ -81,6 +81,8 @@ Note: Some dictionaries have headwords that sometimes indicate alternative forms
 1. Nepal German Manuscript Cataloguing Project (NGMCP) [Database](https://catalogue.ngmcp.uni-hamburg.de/servlets/solr/select?q=%2BobjectType%3A%22ngmcpdocument%22+%2BallNGMCP%3A*&fl=*%2Cscore&version=4.5&mask=content%2Fsearch%2Fsimple.xed&start=0&rows=10)
 1. Several Kannada Dictionaries on [Baraha.com](http://baraha.com/v10/kannada/browse.php).
 1. Kannada-English Etymological Dictionary by Učida and Rajapurohit (looks like p-acharya is already [trying](https://github.com/p-acharya/opencv_ocr)).
-1. Dravidian Etymological Dictionary (Burrow and Emeneau)   
+1. Dravidian Etymological Dictionary (Burrow and Emeneau)
+1. G.V. Venkatasubbiah's English-Kannada dict and Kannada-English dict from [Kanaja](http://kanaja.in/?page_id=11120)
+1. Dasa Sāhitya Kośa from [Kanaja](http://kanaja.in/?page_id=11120)
 
 
