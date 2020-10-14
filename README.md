@@ -74,12 +74,13 @@ Note: Some dictionaries have headwords that sometimes indicate alternative forms
    **ಕೊಣಮಿಗೆ**<br />
    ರೊಟ್ಟಿ ಮಾಡುವುದಕ್ಕೆ, ಹಿಟ್ಟು ಕಲಸಿಕೊಳ್ಳಲು ಮತ್ತು ಆ ಬಳಿಕ ರೊಟ್ಟಿ ಬಡಿಯಲು/ತಟ್ಟಲು ಬಳಸಿಕೊಳ್ಳುತ್ತಾರೆ. ಇದರ ಆಕಾರ ಮತ್ತು ಗಾತ್ರಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಇರುತ್ತದೆ. ವೃತ್ತಾಕಾರದ ಕೊಣಮಿಗೆಯು ರೊಟ್ಟಿ ತಯಾರಿಸಿಕೊಳ್ಳಲು ಬಳಕೆಯಾದರೆ ಆಯತಾಕಾರದವುಗಳಲ್ಲಿ ಅನ್ನ ಮೊಸರು ಕಲಸಿಕೊಳ್ಳಲು ಬಳಕೆಯಾಗುತ್ತದೆ. ಇವನ್ನು ಕಗ್ಗಲ್ಲು, ಮರ ಮತ್ತು ಲೋಹಗಳಿಂದ ತಯಾರಿಸುತ್ತಾರೆ. ಸಾಗುವಾನಿ, ಮಾವು, ಅತ್ತಿ ಮುಂತಾದ ಮರಗಳು ತಯಾರಿಕೆಗೆ ಬಳಕೆಯಾಗುತ್ತವ. ರೊಟ್ಟಿ ಮಾಡುವ ಯಂತ್ರವು ಬಂದ ಮೇಲೆ ಕೊಣಮಿಗೆ ಬಳಕೆ ಕಡಿಮೆಯಾಗುತ್ತಾ ಬಂದಿದೆ.
 
-## Forthcoming
+## Future
 
 1. Bhāratīya Bhāṣā Kośa ([Bharatavani](https://bharatavani.in/dictionary-surf/?did=193&letter=अ&language=Hindi&page=1))
 1. English Kannada Nighaṇṭu ([Bharatavani](https://bharatavani.in/dictionary-surf/?did=30&letter=A&language=Kannada&page=1))
 1. Nepal German Manuscript Cataloguing Project (NGMCP) [Database](https://catalogue.ngmcp.uni-hamburg.de/servlets/solr/select?q=%2BobjectType%3A%22ngmcpdocument%22+%2BallNGMCP%3A*&fl=*%2Cscore&version=4.5&mask=content%2Fsearch%2Fsimple.xed&start=0&rows=10)
-1. Kannada Dictionaries on [Baraha.com](http://baraha.com/v10/kannada/browse.php)
+1. Several Kannada Dictionaries on [Baraha.com](http://baraha.com/v10/kannada/browse.php).
+1. Kannada-English Etymological Dictionary by Učida and Rajapurohit (looks like p-acharya is already [trying](https://github.com/p-acharya/opencv_ocr)).
    
 
 
