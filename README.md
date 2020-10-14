@@ -1,6 +1,6 @@
 # Dictionaries
 
-Indic dictionary data not (easily) available elsewhere on the internet.
+Indic dictionary data not (easily) available elsewhere.
 
 ## Now Available
 
