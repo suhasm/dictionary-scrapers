@@ -4,7 +4,7 @@ Indic dictionary data not (easily) available elsewhere on the internet.
 
 ## Now Available
 
-Note: Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries need to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms.
+Note: Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms.
 
 1. ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi)
 
