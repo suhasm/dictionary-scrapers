@@ -19,7 +19,7 @@ Note: Some dictionaries have headwords that sometimes indicate alternative forms
 
 1. ಚಂಪೂ ನುಡಿಗನ್ನಡಿ (campū nuḍigannaḍi)
    
-   A dictionary of words extracted from a large number of Old Kannada works (see pp. 5-6). 
+   A dictionary of Old Kannada based on large number of works (see pp. 5-6). 
    Author: Dr. P.V. Narayana.
    This data has been scraped off [Bharatavani](https://bharatavani.in/dictionary-surf/?did=62&letter=ಅ&language=Kannada&page=1). 
    WorldCat entry [here](http://www.worldcat.org/oclc/890284576).
@@ -32,7 +32,7 @@ Note: Some dictionaries have headwords that sometimes indicate alternative forms
    
 1. ಹಳಗನ್ನಡ ಪದಸಂಪದ (haḷagannaḍa padasampada)
 
-   A dictionary of Old Kannada words. 
+   A dictionary of Old Kannada. 
    Author: Dr. P.V. Narayana.
    This data has been scraped off [Bharatavani](https://bharatavani.in/dictionary-surf/?did=64&letter=ಅ&language=Kannada&page=1). 
    WorldCat entry [here](http://www.worldcat.org/oclc/1044770592).
@@ -45,8 +45,8 @@ Note: Some dictionaries have headwords that sometimes indicate alternative forms
    
    A dictionary of Kannada that spans all time periods, published by the Kannaḍa Sāhitya Pariṣattu. I'm not sure which edition this data is based on.
    There is also a larger [multi-volume dictionary](https://archive.org/details/dli.language.1017), which has not yet been digitised.
-   Publisher: Kannada Sahitya Parishattu 
-   Editor: G.V. Venkatasubbiah (probably, I don't have access to this book)
+   Publisher: Kannada Sahitya Parishattu.
+   Editor: G.V. Venkatasubbiah (probably; I don't have access to this book).
    This data has been scraped off [Bharatavani](https://bharatavani.in/dictionary-surf/?did=46&letter=ಅ&start=0&language=Kannada). 
    WorldCat entry [here](http://www.worldcat.org/oclc/1028537088).
    
