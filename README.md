@@ -9,7 +9,7 @@ Required Cleanup:
 ## Now Available
 
 
-1. ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi) (~12K words)
+1. [KA] ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi) (~12K words)
 
    A dictionary of words used by the distinguished Old Kannada poet Pampa (900 AD) in his Ādipurāṇa and Paṃpabhārata. 
    Author: Dr. P.V. Narayana.
@@ -20,7 +20,7 @@ Required Cleanup:
    Sample entry:<br />
    **ಬಾಳ್** <br /> [ನಾ] ಕತ್ತಿ (ಕೀಱಿ ನೆತ್ತಿಯೊಳ್ ಬಾಳಂ ನಿರ್ನೆರಮೂಱಿ ಚಲದಿನೆರಗಿಸಲಿರೆ ಭರತಂಗೆಱಗುವೆಱಕಂ ಅಂಜುಮೆಯಲ್ತೇ: ಆದಿಪು, ೧೪. ೭೫)
 
-1. ಚಂಪೂ ನುಡಿಗನ್ನಡಿ (campū nuḍigannaḍi) (~30K words)
+1. [KA] ಚಂಪೂ ನುಡಿಗನ್ನಡಿ (campū nuḍigannaḍi) (~30K words)
    
    A dictionary of Old Kannada based on large number of works (see pp. 5-6). 
    Author: Dr. P.V. Narayana.
@@ -33,7 +33,7 @@ Required Cleanup:
    ಕತ್ತಿ (ಕೀಱ ನೆತ್ತಿಯೊಳ್ ಬಾಳಂ ನಿರ್ನೆರಮೂಱ ಚಲದಿನೆರಗಿಸಲಿರೆ ಭರತಂಗೆಱಗುವೆಱಕಂ ಅಚಿಜಮೆಯಲ್ತೇ: ಆದಿಪು, ೧೪. ೭೫)
 
    
-1. ಹಳಗನ್ನಡ ಪದಸಂಪದ (haḷagannaḍa padasampada) (~30K words)
+1. [KA] ಹಳಗನ್ನಡ ಪದಸಂಪದ (haḷagannaḍa padasampada) (~30K words)
 
    A dictionary of Old Kannada. It is likely that is there is significant overlap with campū nuḍigannaḍi and paṃpana nuḍigaṇi, since it is the same author.
    Author: Dr. P.V. Narayana.
@@ -44,7 +44,7 @@ Required Cleanup:
    Sample entry:<br />
    **ಬಾಳ್**<br /> 1. ಕತ್ತಿ 2. ಲಾಮಂಚ (ಅರ್ಥಸಂದಿಗ್ಧತೆಯ ಶಬ್ದ)
    
-1. ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು (saṃkṣipta kannaḍa nighaṇṭu) (~43K words)
+1. [KA] ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು (saṃkṣipta kannaḍa nighaṇṭu) (~43K words)
    
    A dictionary of Kannada that spans all time periods, published by the Kannaḍa Sāhitya Pariṣattu. I'm not sure which edition this data is based on.
    There is also a larger [multi-volume dictionary](https://archive.org/details/dli.language.1017), which has not yet been digitised.
@@ -56,7 +56,7 @@ Required Cleanup:
    Sample entry:<br />
    **ಬಾಳ್**<br /> 1. ಬದುಕು. 2. ಜೀವ. 3. ಕತ್ತಿ. 4. ಉಳುಮೆ.
    
-1. अवधी शब्द-कोश (avadhī śabdakośa) (~9K words)
+1. [HI] अवधी शब्द-कोश (avadhī śabdakośa) (~9K words)
 
    A dictionary of Awadhi published by Lucknow University.
    Editors: सूर्यप्रसाद दीक्षित, सजीवनलाल यादव.
@@ -66,7 +66,7 @@ Required Cleanup:
    Sample entry:<br />
    **अंटसंट**<br /> ऊटपटांग, बेसिर-पैर की बात
    
-1. ಜಾನಪದ ವಸ್ತುಕೋಶ (jānapada vastukośa) (~250 words)
+1. [KA] ಜಾನಪದ ವಸ್ತುಕೋಶ (jānapada vastukośa) (~250 words)
 
    A dictionary of objects used in rural Karnataka.ṭ
    Editor: Sa. Chi. Ramesh.
