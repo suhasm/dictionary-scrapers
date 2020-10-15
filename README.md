@@ -3,7 +3,7 @@
 Indic dictionary data not (easily) available elsewhere.
 
 Required Cleanup:
-* Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms.
+* Some dictionaries have some headwords that indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms.
 * A small fraction of the Kannada words are corrupt on the Bharatavani site. For instance: the saṃkṣipta kannaḍa nighaṇṭu reads ಕ¾õÉಗೊರಲ, ಕ¾õÉಕಂಠ. These need restoring.
 
 ## Now Available
