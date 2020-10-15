@@ -4,7 +4,7 @@ Indic dictionary data not (easily) available elsewhere.
 
 ## Now Available
 
-Note: Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms.
+Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms. 2. A small fraction of the Kannada words are corrupt on the Bharatavani site. For instance: ಕ¾õÉಗೊರಲ, ಕ¾õÉಕಂಠ in the ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು. These need restoring.
 
 1. ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi)
 
@@ -41,7 +41,7 @@ Note: Some dictionaries have headwords that sometimes indicate alternative forms
    Sample entry:<br />
    **ಬಾಳ್**<br /> 1. ಕತ್ತಿ 2. ಲಾಮಂಚ (ಅರ್ಥಸಂದಿಗ್ಧತೆಯ ಶಬ್ದ)
    
-1. ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು (saṃkṣipta kannaḍa nighaṇṭu)
+1. ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು (saṃkṣipta kannaḍa nighaṇṭu) (~43K words)
    
    A dictionary of Kannada that spans all time periods, published by the Kannaḍa Sāhitya Pariṣattu. I'm not sure which edition this data is based on.
    There is also a larger [multi-volume dictionary](https://archive.org/details/dli.language.1017), which has not yet been digitised.
