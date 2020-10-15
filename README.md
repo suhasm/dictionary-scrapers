@@ -2,9 +2,12 @@
 
 Indic dictionary data not (easily) available elsewhere.
 
+Required Cleanup:
+* Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms.
+* A small fraction of the Kannada words are corrupt on the Bharatavani site. For instance: the saṃkṣipta kannaḍa nighaṇṭu reads ಕ¾õÉಗೊರಲ, ಕ¾õÉಕಂಠ. These need restoring.
+
 ## Now Available
 
-Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms. 2. A small fraction of the Kannada words are corrupt on the Bharatavani site. For instance: ಕ¾õÉಗೊರಲ, ಕ¾õÉಕಂಠ in the ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು. These need restoring.
 
 1. ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi) (~12K words)
 
