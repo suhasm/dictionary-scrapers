@@ -6,7 +6,7 @@ Indic dictionary data not (easily) available elsewhere.
 
 Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative forms. For instance, in the *haḷagannaḍa padasampada*, an entry reads ಕಂಕೇಲಿ(ಳಿ). Such entries are yet to be identified, and separated into two headwords: ಕಂಕೇಲಿ and ಕಂಕೇಳಿ. Not all dictionaries use the same conventions for alternative forms. 2. A small fraction of the Kannada words are corrupt on the Bharatavani site. For instance: ಕ¾õÉಗೊರಲ, ಕ¾õÉಕಂಠ in the ಸಂಕ್ಷಿಪ್ತ ಕನ್ನಡ ನಿಘಂಟು. These need restoring.
 
-1. ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi)
+1. ಪಂಪನ ನುಡಿಗಣಿ (paṃpana nuḍigaṇi) (~12K words)
 
    A dictionary of words used by the distinguished Old Kannada poet Pampa (900 AD) in his Ādipurāṇa and Paṃpabhārata. 
    Author: Dr. P.V. Narayana.
@@ -17,7 +17,7 @@ Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative
    Sample entry:<br />
    **ಬಾಳ್** <br /> [ನಾ] ಕತ್ತಿ (ಕೀಱಿ ನೆತ್ತಿಯೊಳ್ ಬಾಳಂ ನಿರ್ನೆರಮೂಱಿ ಚಲದಿನೆರಗಿಸಲಿರೆ ಭರತಂಗೆಱಗುವೆಱಕಂ ಅಂಜುಮೆಯಲ್ತೇ: ಆದಿಪು, ೧೪. ೭೫)
 
-1. ಚಂಪೂ ನುಡಿಗನ್ನಡಿ (campū nuḍigannaḍi)
+1. ಚಂಪೂ ನುಡಿಗನ್ನಡಿ (campū nuḍigannaḍi) (~30K words)
    
    A dictionary of Old Kannada based on large number of works (see pp. 5-6). 
    Author: Dr. P.V. Narayana.
@@ -30,9 +30,9 @@ Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative
    ಕತ್ತಿ (ಕೀಱ ನೆತ್ತಿಯೊಳ್ ಬಾಳಂ ನಿರ್ನೆರಮೂಱ ಚಲದಿನೆರಗಿಸಲಿರೆ ಭರತಂಗೆಱಗುವೆಱಕಂ ಅಚಿಜಮೆಯಲ್ತೇ: ಆದಿಪು, ೧೪. ೭೫)
 
    
-1. ಹಳಗನ್ನಡ ಪದಸಂಪದ (haḷagannaḍa padasampada)
+1. ಹಳಗನ್ನಡ ಪದಸಂಪದ (haḷagannaḍa padasampada) (~30K words)
 
-   A dictionary of Old Kannada. 
+   A dictionary of Old Kannada. It is likely that is there is significant overlap with campū nuḍigannaḍi and paṃpana nuḍigaṇi, since it is the same author.
    Author: Dr. P.V. Narayana.
    This data has been scraped off [Bharatavani](https://bharatavani.in/dictionary-surf/?did=64&letter=ಅ&language=Kannada&page=1). 
    WorldCat entry [here](http://www.worldcat.org/oclc/1044770592).
@@ -53,7 +53,7 @@ Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative
    Sample entry:<br />
    **ಬಾಳ್**<br /> 1. ಬದುಕು. 2. ಜೀವ. 3. ಕತ್ತಿ. 4. ಉಳುಮೆ.
    
-1. अवधी शब्द-कोश (avadhī śabdakośa)
+1. अवधी शब्द-कोश (avadhī śabdakośa) (~9K words)
 
    A dictionary of Awadhi published by Lucknow University.
    Editors: सूर्यप्रसाद दीक्षित, सजीवनलाल यादव.
@@ -63,9 +63,9 @@ Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative
    Sample entry:<br />
    **अंटसंट**<br /> ऊटपटांग, बेसिर-पैर की बात
    
-1. ಜಾನಪದ ವಸ್ತುಕೋಶ (jānapada vastukośa)
+1. ಜಾನಪದ ವಸ್ತುಕೋಶ (jānapada vastukośa) (~250 words)
 
-   A dictionary of objects used in rural Karnataka.
+   A dictionary of objects used in rural Karnataka.ṭ
    Editor: Sa. Chi. Ramesh.
    This data has been scraped off [Bharatavani](https://bharatavani.in/dictionary-surf/?did=100&letter=ಅ&language=Kannada&page=1). 
    WorldCat entry [here](http://www.worldcat.org/oclc/889862837). See pdf [here](https://english.bharatavani.in/book/janapada-vastukosha/).
@@ -84,5 +84,6 @@ Cleanup: 1. Some dictionaries have headwords that sometimes indicate alternative
 1. Dravidian Etymological Dictionary (Burrow and Emeneau)
 1. G.V. Venkatasubbiah's English-Kannada dict and Kannada-English dict from [Kanaja](http://kanaja.in/?page_id=11120)
 1. Dasa Sāhitya Kośa from [Kanaja](http://kanaja.in/?page_id=11120)
+1. Old Telugu Dictionaries
 
 
