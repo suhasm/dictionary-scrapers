@@ -88,5 +88,5 @@ Required Cleanup:
 1. G.V. Venkatasubbiah's English-Kannada dict and Kannada-English dict from [Kanaja](http://kanaja.in/?page_id=11120)
 1. Dasa Sāhitya Kośa from [Kanaja](http://kanaja.in/?page_id=11120)
 1. Old Telugu Dictionaries
-1. [This](https://starling.rinet.ru/cgi-bin/response.cgi?root=config&morpho=0&basename=\data\drav\dravet&first=201&off=&text_proto=&method_proto=substring&ic_proto=on&text_meaning=&method_meaning=substring&ic_meaning=on&text_sdr=&method_sdr=substring&ic_sdr=on&text_tel=&method_tel=substring&ic_tel=on&text_koga=&method_koga=substring&ic_koga=on&text_gnd=&method_gnd=substring&ic_gnd=on&text_ndr=&method_ndr=substring&ic_ndr=on&text_bra=&method_bra=substring&ic_bra=on&text_notes=&method_notes=substring&ic_notes=on&text_any=&method_any=substring&sort=proto&ic_any=on) Dravidian Etymological Dictionary
+1. [This](https://starling.rinet.ru/cgi-bin/main.cgi?flags=eygtnnl) Dravidian Etymological Dictionary. Compiled by George Starostin on the basis of Burrow and Emeneau's work.
 
