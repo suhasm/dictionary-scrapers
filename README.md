@@ -90,3 +90,4 @@ Required Cleanup:
 1. Old Telugu Dictionaries
 1. [This](https://starling.rinet.ru/cgi-bin/main.cgi?flags=eygtnnl) Dravidian Etymological Dictionary. Compiled by George Starostin on the basis of Burrow and Emeneau's work.
 1. New Catalogus Catalogorum
+1. [Saraswati Mahal Online Catalog][http://catalog.tmssmlibrary.com/search.php]
