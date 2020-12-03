@@ -93,3 +93,4 @@ Required Cleanup:
 1. [Saraswati Mahal Online Catalog](http://catalog.tmssmlibrary.com/search.php)
 1. [West Bengal Public Library Database](http://dspace.wbpublibnet.gov.in:8080/jspui/simple-search?location=%2F&query=&rpp=10&sort_by=score&order=desc&filter_field_1=subject&filter_type_1=equals&filter_value_1=sanskrit)
 1. [Whitney's Roots](https://sanskritlibrary.org/Sanskrit/whitney/index2.html)
+1. Tadbhava and Deshi Word list in Nayakumāracariu (Ed. Hiralal Jain)
