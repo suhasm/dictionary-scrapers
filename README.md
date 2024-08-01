@@ -77,6 +77,11 @@ Required Cleanup:
    **ಕೊಣಮಿಗೆ**<br />
    ರೊಟ್ಟಿ ಮಾಡುವುದಕ್ಕೆ, ಹಿಟ್ಟು ಕಲಸಿಕೊಳ್ಳಲು ಮತ್ತು ಆ ಬಳಿಕ ರೊಟ್ಟಿ ಬಡಿಯಲು/ತಟ್ಟಲು ಬಳಸಿಕೊಳ್ಳುತ್ತಾರೆ. ಇದರ ಆಕಾರ ಮತ್ತು ಗಾತ್ರಗಳಲ್ಲಿ ವ್ಯತ್ಯಾಸ ಇರುತ್ತದೆ. ವೃತ್ತಾಕಾರದ ಕೊಣಮಿಗೆಯು ರೊಟ್ಟಿ ತಯಾರಿಸಿಕೊಳ್ಳಲು ಬಳಕೆಯಾದರೆ ಆಯತಾಕಾರದವುಗಳಲ್ಲಿ ಅನ್ನ ಮೊಸರು ಕಲಸಿಕೊಳ್ಳಲು ಬಳಕೆಯಾಗುತ್ತದೆ. ಇವನ್ನು ಕಗ್ಗಲ್ಲು, ಮರ ಮತ್ತು ಲೋಹಗಳಿಂದ ತಯಾರಿಸುತ್ತಾರೆ. ಸಾಗುವಾನಿ, ಮಾವು, ಅತ್ತಿ ಮುಂತಾದ ಮರಗಳು ತಯಾರಿಕೆಗೆ ಬಳಕೆಯಾಗುತ್ತವ. ರೊಟ್ಟಿ ಮಾಡುವ ಯಂತ್ರವು ಬಂದ ಮೇಲೆ ಕೊಣಮಿಗೆ ಬಳಕೆ ಕಡಿಮೆಯಾಗುತ್ತಾ ಬಂದಿದೆ.
 
+1. [PA] Pali-Myanmar Abhidhan  (~200,000 words)
+
+   "Pali Myanmar Abhidhan is the world's largest Pali dictionary, a massive 23 volumes, with more than 200 000 words, a complete reference guide to the language of the root texts and commentaries. PEU is a project in progress to translate the Abhidhan's definitions into English, currently at about 80% human translated, the remainder is by Google. "
+   From https://pm12e.pali.tools/
+   
 ## Future
 
 1. Bhāratīya Bhāṣā Kośa ([Bharatavani](https://bharatavani.in/dictionary-surf/?did=193&letter=अ&language=Hindi&page=1))
